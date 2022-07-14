@@ -7,7 +7,7 @@ Suicide_rate can visualize Suicide rate of up to four countries.
 
 The SIPRI dataset is downloadable from:
 
-https://www.npa.go.jp/publications/statistics/safetylife/jisatsu.html/202205sokuhouti.csv
+[https://www.npa.go.jp/publications/statistics/safetylife/jisatsu.html/202205sokuhouti.csv](https://github.com/knakano-dot/Suicide/blob/main/SUICIDE2.xlsx)
 
 # How to install Suicide on Linux, MacOS, or WSL on Windows
 
